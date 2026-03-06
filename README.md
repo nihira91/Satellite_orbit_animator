@@ -80,6 +80,4 @@ Then open the local URL Streamlit prints (typically `http://localhost:8501`).
 - TLEs become stale over time; for accurate current positions you should update TLEs from a live source.
 - The visualization is in an Earth-centered coordinate frame (km) and is intended for educational/visual purposes.
 
-## License
 
-Add a license file if you plan to distribute or reuse this project (e.g., MIT, Apache-2.0).
